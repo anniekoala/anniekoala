@@ -2,9 +2,11 @@
 
 **English** · [中文](#你好我是-annie-)
 
-I build opinionated **Agent Skills** and workflows. I don't come from a traditional engineering background — but with coding agents (Cursor / Claude Code / Codex / Gemini), I turn my ideas into real, usable tools. For me, building is just another way to think out loud.
+I build Agent Skills and workflows that solve my daily pain points — hopefully yours too.
 
-Most of what I make is **bilingual (中文 / English)** and lives where I actually work: explaining code, creating content, and getting real-life tasks done.
+With no technical background, I vibe code with multiple agents, and turn needs into ideas, eventually solutions.
+
+When not building, I'm in the ocean catching waves. 🌊
 
 ## ⭐ Featured project
 
@@ -26,9 +28,11 @@ Most of what I make is **bilingual (中文 / English)** and lives where I actual
 
 [English](#hi-im-annie-) · **中文**
 
-我做的是有自己主张的 **Agent Skill** 和工作流。我不是传统工程师出身——但靠着 coding agent（Cursor / Claude Code / Codex / Gemini），我能把脑子里的想法变成真正能用的工具。对我来说，做东西本身就是一种思考方式。
+我做的是能解决我日常痛点的 Agent Skill 和工作流——希望也能解决你的。
 
-我做的大多数东西都是**中英双语**的，而且都长在我真实的工作场景里：把代码讲明白、做内容、把生活里的正事办成。
+没有技术背景，我靠几个 AI agent 一起 vibe code，把需求变成想法，再变成真正能用的解决方案。
+
+不写代码的时候，我在海里追浪。🌊
 
 ## ⭐ 精选项目
 
