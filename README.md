@@ -11,3 +11,5 @@ When not building, I'm in the ocean catching waves. 🌊
 ## ⭐ Featured project
 
 🐈‍⬛ **[xiaohei-code-decoder](https://github.com/anniekoala/xiaohei-code-decoder)** · 小黑看代码 — an Agent Skill that turns any codebase into a hand-drawn, bilingual, scrollable walkthrough. Point your agent at a repo, say "decode this with Xiaohei", and get a self-contained `index.html`: one illustration + one plain-language explanation per screen, with 中 / EN toggle and progress nav. No backend, usually no extra API keys.
+
+💼 **[job-hunter](https://github.com/anniekoala/job-hunter)** · a config-driven job-search workspace — a 3-agent workflow (Job Scout → Application Builder → Interview Coach) plus AI agent skills that take you from "which roles should I apply to?" to "I'm ready for the interview". It tailors a resume & cover letter to each role and renders them to PDF/DOCX, while keeping all your personal data local and git-ignored.
